@@ -23,7 +23,9 @@ Root：超级用户，拥有手机最高权限，能修改系统，通常普通�
 
 降级：先用 7.0.12 以上版本登录，再使用 adb install -d -r /旧版微信/安装包的路径.apk 执行降级，优先选择此方案
 
-改包：参考 https://blog.csdn.net/Jiangling6998/article/details/125039663，但请**一定要注意防封**，也不要用主账号尝试
+改包：参考 https://blog.csdn.net/Jiangling6998/article/details/125039663
+
+但请**一定要注意防封**，也不要用主账号尝试
 
 2. 视频号下载
 
